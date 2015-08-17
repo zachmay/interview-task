@@ -77,3 +77,8 @@ Once you have a data structure like this, iterate through it (probably recursive
         - Level 2, Link 4 - http://www.webpage.com/2/4
             - Level 3, Link 1 - http://www.webpage.com/3/1
                 - No descendants
+
+## Questions
+- What special care would you need to take in a program like this?
+- Why might you want to be careful about exposing a page like this to the general public?
+- What is your approach to testing a piece of code like this? How did the design of the code help or hurt testability?
