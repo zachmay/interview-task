@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.0",
+        "symfony/dom-crawler": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {"Sample\\": "src/"}
+    }
+}
